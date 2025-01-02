@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning** , **Deep
 ## 🌐 Find Me On
 
 [![linkedin](https://github.com/user-attachments/assets/5739a840-105c-4af6-9bd2-4f4809b9e51b)](https://www.linkedin.com/in/rudra-chothe)
-[![huggingface](https://github.com/user-attachments/assets/ff1e94c7-4bd8-4ba0-9884-07c6aa7b64a2)](https://huggingface.co/rudra0410)
+[![huggingface](https://github.com/user-attachments/assets/ff1e94c7-4bd8-4ba0-9884-07c6aa7b64a2)](https://huggingface.co/rudra0410hf)
 
 <!-- ![Uploading l<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91" height="28" role="img" aria-label="LINKEDIN"><title>LINKEDIN</title><g shape-rendering="crispEdges"><rect width="91" height="28" fill="#1da1f2"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="455" y="175" textLength="670" fill="#fff" font-weight="bold">LINKEDIN</text></g></svg>inkedin.svg…]()
 -->
